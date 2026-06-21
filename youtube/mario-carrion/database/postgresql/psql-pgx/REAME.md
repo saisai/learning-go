@@ -7,4 +7,4 @@ go get github.com/jackc/pgx/v5
 docker exec -it container_id psql -U user -d dbname
 ```
 
-Youtube [https://www.youtube.com/watch?v=2XCaKYH0Ydo&list=PL7yAAGMOat_EgwoQTvNUflrYL_4qzdB7f]
+[Link](https://www.youtube.com/watch?v=2XCaKYH0Ydo&list=PL7yAAGMOat_EgwoQTvNUflrYL_4qzdB7f)
